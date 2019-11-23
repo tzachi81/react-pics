@@ -1,3 +1,9 @@
+For this project I used:
+Unsplash API to fetch images json(s). [Unsplash API](https://unsplash.com/developers)
+Semantic UI for styling. [Semantic UI](https://semantic-ui.com/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
