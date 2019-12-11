@@ -2,6 +2,7 @@
 
 - [Unsplash API](https://unsplash.com/developers) to fetch images json(s). 
 - [Semantic UI](https://semantic-ui.com/) for styling.<br><br>
+- css: grid layout
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
